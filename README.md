@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PurnimaGiri/DSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/PurnimaGiri/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/PurnimaGiri/DSA/tree/master/0520-detect-capital) |
+| [3163-string-compression-iii](https://github.com/PurnimaGiri/DSA/tree/master/3163-string-compression-iii) |
 ## String Matching
 |  |
 | ------- |
