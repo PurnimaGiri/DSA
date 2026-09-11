@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PurnimaGiri/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PurnimaGiri/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/PurnimaGiri/DSA/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/PurnimaGiri/DSA/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurnimaGiri/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PurnimaGiri/DSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/PurnimaGiri/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/PurnimaGiri/DSA/tree/master/0520-detect-capital) |
+| [0696-count-binary-substrings](https://github.com/PurnimaGiri/DSA/tree/master/0696-count-binary-substrings) |
 | [3163-string-compression-iii](https://github.com/PurnimaGiri/DSA/tree/master/3163-string-compression-iii) |
 ## String Matching
 |  |
