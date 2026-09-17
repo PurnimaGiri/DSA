@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PurnimaGiri/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PurnimaGiri/DSA/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/PurnimaGiri/DSA/tree/master/0046-permutations) |
 | [0169-majority-element](https://github.com/PurnimaGiri/DSA/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/PurnimaGiri/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurnimaGiri/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PurnimaGiri/DSA/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/PurnimaGiri/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
