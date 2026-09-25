@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/PurnimaGiri/DSA/tree/master/0605-can-place-flowers) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurnimaGiri/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/PurnimaGiri/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurnimaGiri/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PurnimaGiri/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PurnimaGiri/DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurnimaGiri/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/PurnimaGiri/DSA/tree/master/0046-permutations) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
