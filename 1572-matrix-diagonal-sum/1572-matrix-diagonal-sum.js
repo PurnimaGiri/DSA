@@ -4,7 +4,6 @@
  */
 var diagonalSum = function(mat) {
     let m = mat.length
-    let n = mat[0].length
     let s = 0
     for(let i = 0 ; i < m ; i++){
         s += mat[i][i]
