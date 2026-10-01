@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurnimaGiri/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
+| [1572-matrix-diagonal-sum](https://github.com/PurnimaGiri/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/PurnimaGiri/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
