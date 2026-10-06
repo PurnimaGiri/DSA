@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PurnimaGiri/DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/PurnimaGiri/DSA/tree/master/0605-can-place-flowers) |
+| [0766-toeplitz-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PurnimaGiri/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
