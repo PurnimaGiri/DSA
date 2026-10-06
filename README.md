@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurnimaGiri/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PurnimaGiri/DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/PurnimaGiri/DSA/tree/master/0605-can-place-flowers) |
+| [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurnimaGiri/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/PurnimaGiri/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PurnimaGiri/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/PurnimaGiri/DSA/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/PurnimaGiri/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/PurnimaGiri/DSA/tree/master/0917-reverse-only-letters) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/PurnimaGiri/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
@@ -143,6 +146,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PurnimaGiri/DSA/tree/master/1572-matrix-diagonal-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
