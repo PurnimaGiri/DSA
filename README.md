@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PurnimaGiri/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PurnimaGiri/DSA/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/PurnimaGiri/DSA/tree/master/0046-permutations) |
+| [0074-search-a-2d-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/PurnimaGiri/DSA/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/PurnimaGiri/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurnimaGiri/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PurnimaGiri/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
