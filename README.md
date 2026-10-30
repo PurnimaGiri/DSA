@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/PurnimaGiri/DSA/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/PurnimaGiri/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/PurnimaGiri/DSA/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PurnimaGiri/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3163-string-compression-iii](https://github.com/PurnimaGiri/DSA/tree/master/3163-string-compression-iii) |
 ## String Matching
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PurnimaGiri/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/PurnimaGiri/DSA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PurnimaGiri/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
