@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PurnimaGiri/DSA/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/PurnimaGiri/DSA/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/PurnimaGiri/DSA/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/PurnimaGiri/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PurnimaGiri/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0766-toeplitz-matrix) |
@@ -186,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PurnimaGiri/DSA/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/PurnimaGiri/DSA/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/PurnimaGiri/DSA/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/PurnimaGiri/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
