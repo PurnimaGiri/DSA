@@ -2,10 +2,11 @@
  * @param {number} k
  */
 var MyCircularQueue = function(k) {
-    this.capacity = k;
-    this.queue = new Array(k);
-    this.headIndex = 0;
-    this.count = 0;
+    this.arr = new Array(k)
+    this.front = 0
+    this.rear = -1
+    this.size = 0
+    this.capacity = k
 };
 
 /** 
@@ -13,25 +14,25 @@ var MyCircularQueue = function(k) {
  * @return {boolean}
  */
 MyCircularQueue.prototype.enQueue = function(value) {
-    if (this.isFull()) {
-        return false;
+    if(this.isFull()){
+        return false
     }
-    const tailIndex = (this.headIndex + this.count) % this.capacity;
-    this.queue[tailIndex] = value;
-    this.count++;
-    return true;
+    this.rear = (this.rear + 1)% this.capacity
+    this.arr[this.rear] = value
+    this.size++
+    return true
 };
 
 /**
  * @return {boolean}
  */
 MyCircularQueue.prototype.deQueue = function() {
-   if (this.isEmpty()) {
-        return false;
-    }
-    this.headIndex = (this.headIndex + 1) % this.capacity;
-    this.count--;
-    return true; 
+   if(this.isEmpty()){
+    return false
+   } 
+   this.front = (this.front+1)%this.capacity
+   this.size--
+   return true
 };
 
 /**
@@ -41,7 +42,7 @@ MyCircularQueue.prototype.Front = function() {
     if (this.isEmpty()) {
         return -1;
     }
-    return this.queue[this.headIndex];
+    return this.arr[this.front];
 };
 
 /**
@@ -51,22 +52,21 @@ MyCircularQueue.prototype.Rear = function() {
     if (this.isEmpty()) {
         return -1;
     }
-    const tailIndex = (this.headIndex + this.count - 1) % this.capacity;
-    return this.queue[tailIndex];
+    return this.arr[this.rear]
 };
 
 /**
  * @return {boolean}
  */
 MyCircularQueue.prototype.isEmpty = function() {
-    return this.count === 0;
+    return this.size === 0;
 };
 
 /**
  * @return {boolean}
  */
 MyCircularQueue.prototype.isFull = function() {
-    return this.count === this.capacity;
+    return this.size=== this.capacity;
 };
 
 /** 
