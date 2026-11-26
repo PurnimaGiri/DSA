@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PurnimaGiri/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PurnimaGiri/DSA/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/PurnimaGiri/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/PurnimaGiri/DSA/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/PurnimaGiri/DSA/tree/master/0169-majority-element) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PurnimaGiri/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/PurnimaGiri/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PurnimaGiri/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
