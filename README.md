@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/PurnimaGiri/DSA/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/PurnimaGiri/DSA/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/PurnimaGiri/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PurnimaGiri/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurnimaGiri/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PurnimaGiri/DSA/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PurnimaGiri/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PurnimaGiri/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/PurnimaGiri/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/PurnimaGiri/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/PurnimaGiri/DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/PurnimaGiri/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PurnimaGiri/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PurnimaGiri/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/PurnimaGiri/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PurnimaGiri/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/PurnimaGiri/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PurnimaGiri/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurnimaGiri/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PurnimaGiri/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PurnimaGiri/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PurnimaGiri/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/PurnimaGiri/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurnimaGiri/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/PurnimaGiri/DSA/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/PurnimaGiri/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/PurnimaGiri/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/PurnimaGiri/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PurnimaGiri/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PurnimaGiri/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
