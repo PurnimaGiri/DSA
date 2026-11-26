@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/PurnimaGiri/DSA/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/PurnimaGiri/DSA/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PurnimaGiri/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PurnimaGiri/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PurnimaGiri/DSA/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/PurnimaGiri/DSA/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/PurnimaGiri/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/PurnimaGiri/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/PurnimaGiri/DSA/tree/master/0541-reverse-string-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PurnimaGiri/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PurnimaGiri/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PurnimaGiri/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/PurnimaGiri/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PurnimaGiri/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/PurnimaGiri/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/PurnimaGiri/DSA/tree/master/0739-daily-temperatures) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/PurnimaGiri/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PurnimaGiri/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/PurnimaGiri/DSA/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
