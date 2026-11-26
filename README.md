@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurnimaGiri/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/PurnimaGiri/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PurnimaGiri/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PurnimaGiri/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/PurnimaGiri/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PurnimaGiri/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/PurnimaGiri/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/PurnimaGiri/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/PurnimaGiri/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/PurnimaGiri/DSA/tree/master/1122-relative-sort-array) |
 ## Matrix
 |  |
