@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PurnimaGiri/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/PurnimaGiri/DSA/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/PurnimaGiri/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PurnimaGiri/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/PurnimaGiri/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PurnimaGiri/DSA/tree/master/0414-third-maximum-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/PurnimaGiri/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/PurnimaGiri/DSA/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/PurnimaGiri/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/PurnimaGiri/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PurnimaGiri/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
