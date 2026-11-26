@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/PurnimaGiri/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/PurnimaGiri/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/PurnimaGiri/DSA/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/PurnimaGiri/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PurnimaGiri/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PurnimaGiri/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PurnimaGiri/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/PurnimaGiri/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/PurnimaGiri/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/PurnimaGiri/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PurnimaGiri/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/PurnimaGiri/DSA/tree/master/1544-make-the-string-great) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PurnimaGiri/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PurnimaGiri/DSA/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
