@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PurnimaGiri/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/PurnimaGiri/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PurnimaGiri/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/PurnimaGiri/DSA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/PurnimaGiri/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PurnimaGiri/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/PurnimaGiri/DSA/tree/master/0443-string-compression) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/PurnimaGiri/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PurnimaGiri/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PurnimaGiri/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PurnimaGiri/DSA/tree/master/0242-valid-anagram) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PurnimaGiri/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/PurnimaGiri/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/PurnimaGiri/DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/PurnimaGiri/DSA/tree/master/0622-design-circular-queue) |
 ## Design
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PurnimaGiri/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PurnimaGiri/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
