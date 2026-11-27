@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PurnimaGiri/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/PurnimaGiri/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/PurnimaGiri/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PurnimaGiri/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/PurnimaGiri/DSA/tree/master/0941-valid-mountain-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PurnimaGiri/DSA/tree/master/0009-palindrome-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/PurnimaGiri/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/PurnimaGiri/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/PurnimaGiri/DSA/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/PurnimaGiri/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PurnimaGiri/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PurnimaGiri/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PurnimaGiri/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PurnimaGiri/DSA/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/PurnimaGiri/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
